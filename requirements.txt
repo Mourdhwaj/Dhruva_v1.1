@@ -5,5 +5,5 @@ unstructured[all-docs]==0.16.10
 langchain-nvidia-ai-endpoints==0.3.5
 langchain-groq==0.2.1
 groq==0.13.0
-python-dotenv=1.0.1
-langchain-community=0.3.10
+python-dotenv==1.0.1
+langchain-community==0.3.10
